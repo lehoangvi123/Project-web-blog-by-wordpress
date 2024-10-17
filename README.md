@@ -10,4 +10,5 @@ Key features include:
 2. Custom HTML/CSS Enhancements: Personalizing the user interface with carefully crafted custom code, ensuring a modern, clean, and responsive design across devices.
 3. Optimized Performance: Hosted on Hostinger with optimized load times, ensuring an excellent user experience.
 4. User-Centric Design: Thoughtfully structured layout to emphasize accessibility and ease of navigation.
+   
 Conclusion: This project highlights my skills in front-end development, content strategy, and technical proficiency in deploying and managing websites.
