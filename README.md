@@ -1,5 +1,6 @@
 Project: Le Hoang Vi - Personal Blog and Portfolio
-Website: https://lehoangvi.blog
+Website: https://lehoangvi.blog 
+
 Hosted on: Hostinger
 
 As part of my expertise in web development, I designed and developed Le Hoang Vi, a personal blog and portfolio website, using WordPress integrated with custom HTML/CSS. This project demonstrates my ability to create engaging and responsive websites, with a focus on user experience and design aesthetics.
